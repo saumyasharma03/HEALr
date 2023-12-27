@@ -1,5 +1,6 @@
 # HEALr
-Web-based healthcare system
+#Web-based healthcare system
+
 Home Page:
 ![image](https://github.com/saumyasharma03/HEALr/assets/143929552/cf1a73e2-6e51-4780-8fce-842fb1fe16f1)
 
